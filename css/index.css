@@ -1,0 +1,33 @@
+* {
+font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+#title{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 80px;
+    background-color: bisque;
+}
+
+#imagen{
+    text-align: center;
+    
+}
+
+.cont-bot{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.botones{
+    width: auto;
+    height: 50px;
+    margin: 0;
+    background-color: rgb(5, 60, 179);
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
